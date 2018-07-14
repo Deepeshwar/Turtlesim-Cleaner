@@ -1,2 +1,3 @@
 # Turtlesim-Cleaner
 Developing a simple cleaning application with turtlesim
+This repo consists of developing a mobile robot that can cover a full area like robot cleaners. There are several steps to proceed for solving the robot cleaner robot. Firstly we will see, how to design, develop, compile and test a ROS node that makes the robot moves in a straight line for a particular distance. Then moving forward, we will make the robot to rotate left and right. Now we will develop the turtlesim robot for go to a goal location using a proportional controller. Next we will presents two approaches of the cleaning algorithms, namely grid and spiral. This is all about developing a simple cleaning application with turtlesim.
